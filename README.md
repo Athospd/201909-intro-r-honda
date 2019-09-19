@@ -1,2 +1,3 @@
-# intro-programacao-em-r-mestre
-Diretório mestre para o curso Introdução à programação em R.
+# Introdução à Programação em R - Honda
+
+Início no dia 20 de setembro de 2019.
